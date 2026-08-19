@@ -1,0 +1,12 @@
+{"id": "q1", "query": "functional dyspepsia first line treatment recommendations", "relevant_chunk_ids": ["fd-guidelines-section_aware-0008"], "notes": "First-line treatment of FD (summary recommendations)"}
+{"id": "q2", "query": "proton pump inhibitors efficacious treatment functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "PPI recommendation"}
+{"id": "q3", "query": "Helicobacter pylori test and treat functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0005"], "notes": "H. pylori test-and-treat"}
+{"id": "q4", "query": "endoscopy referral age 55 dyspepsia weight loss", "relevant_chunk_ids": ["fd-guidelines-section_aware-0004"], "notes": "Age ≥55 / alarm workup"}
+{"id": "q5", "query": "Rome IV bothersome functional dyspepsia symptoms", "relevant_chunk_ids": ["fd-guidelines-section_aware-0021"], "notes": "Rome IV bothersome criterion"}
+{"id": "q6", "query": "postprandial distress syndrome and epigastric pain syndrome subtypes", "relevant_chunk_ids": ["fd-guidelines-section_aware-0020"], "notes": "PDS vs EPS"}
+{"id": "q7", "query": "diagnose functional dyspepsia without alarm symptoms", "relevant_chunk_ids": ["fd-guidelines-section_aware-0003"], "notes": "Diagnosis without alarm features"}
+{"id": "q8", "query": "empirical acid suppression therapy dyspepsia management", "relevant_chunk_ids": ["fd-guidelines-section_aware-0047"], "notes": "Empirical acid suppression strategy"}
+{"id": "q9", "query": "prokinetic second line treatment functional dyspepsia metoclopramide", "relevant_chunk_ids": ["fd-guidelines-section_aware-0010"], "notes": "Prokinetics second-line"}
+{"id": "q10", "query": "mirtazapine second line functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0011"], "notes": "Mirtazapine recommendation"}
+{"id": "q11", "query": "psychotherapy treatment functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0086"], "notes": "Psychotherapy / gut-brain therapy"}
+{"id": "q12", "query": "histamine-2 receptor antagonists functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "H2RAs (same chunk as PPI summary block)"}

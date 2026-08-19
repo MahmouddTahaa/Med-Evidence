@@ -1,0 +1,50 @@
+{"id": "as01", "query": "NICE BTS SIGN asthma guideline NG245 diagnosis monitoring management", "relevant_chunk_ids": ["asthma-section_aware-0001"], "notes": "Guideline identity"}
+{"id": "as02", "query": "does this guideline cover severe asthma or acute asthma attacks", "relevant_chunk_ids": ["asthma-section_aware-0007"], "notes": "Scope exclusion"}
+{"id": "as03", "query": "structured clinical history suspected asthma wheeze cough breathlessness night symptoms", "relevant_chunk_ids": ["asthma-section_aware-0009"], "notes": "Clinical history"}
+{"id": "as04", "query": "do not confirm asthma diagnosis without suggestive history and objective test", "relevant_chunk_ids": ["asthma-section_aware-0009"], "notes": "No diagnosis without objective test"}
+{"id": "as05", "query": "treat immediately if acutely unwell highly symptomatic at presentation FeNO spirometry PEF", "relevant_chunk_ids": ["asthma-section_aware-0010"], "notes": "Acute presentation"}
+{"id": "as06", "query": "spirometry FeNO results affected after inhaled corticosteroids", "relevant_chunk_ids": ["asthma-section_aware-0010"], "notes": "ICS effect on tests"}
+{"id": "as07", "query": "diagnose asthma in adults FeNO 50 ppb or raised blood eosinophil count", "relevant_chunk_ids": ["asthma-section_aware-0011"], "notes": "Adult FeNO/eosinophil diagnosis"}
+{"id": "as08", "query": "bronchodilator reversibility FEV1 increase 12 percent and 200 ml diagnose asthma adults", "relevant_chunk_ids": ["asthma-section_aware-0011"], "notes": "Adult BDR criteria"}
+{"id": "as09", "query": "peak expiratory flow twice daily 2 weeks if spirometry delayed adults", "relevant_chunk_ids": ["asthma-section_aware-0011"], "notes": "Adult PEF variability pathway"}
+{"id": "as10", "query": "diagnose asthma children 5 to 16 FeNO 35 ppb", "relevant_chunk_ids": ["asthma-section_aware-0012"], "notes": "Child FeNO diagnosis"}
+{"id": "as11", "query": "BDR spirometry children FEV1 increase 12 percent if FeNO not raised", "relevant_chunk_ids": ["asthma-section_aware-0012"], "notes": "Child BDR pathway"}
+{"id": "as12", "query": "PEF variability 20 percent diagnose asthma children when spirometry delayed", "relevant_chunk_ids": ["asthma-section_aware-0012"], "notes": "Child PEF variability"}
+{"id": "as13", "query": "bronchial challenge test if asthma still suspected after FeNO BDR PEF children", "relevant_chunk_ids": ["asthma-section_aware-0013"], "notes": "Bronchial challenge"}
+{"id": "as14", "query": "diagnosing asthma children under 5 treat ICS review objective tests at age 5", "relevant_chunk_ids": ["asthma-section_aware-0014"], "notes": "Under-5 diagnosis"}
+{"id": "as15", "query": "unable to perform objective tests aged 5 retry every 6 to 12 months or specialist referral", "relevant_chunk_ids": ["asthma-section_aware-0014"], "notes": "Repeat tests under 5"}
+{"id": "as16", "query": "occupational asthma adult-onset symptoms better away from work or holiday", "relevant_chunk_ids": ["asthma-section_aware-0015"], "notes": "Occupational history"}
+{"id": "as17", "query": "refer suspected occupational asthma to occupational asthma specialist", "relevant_chunk_ids": ["asthma-section_aware-0015"], "notes": "Occupational referral"}
+{"id": "as18", "query": "monitor asthma control every review time off work reliever use oral corticosteroids hospital", "relevant_chunk_ids": ["asthma-section_aware-0016"], "notes": "Monitoring items"}
+{"id": "as19", "query": "validated symptom questionnaire Asthma Control Test Childhood Asthma Control Test", "relevant_chunk_ids": ["asthma-section_aware-0016"], "notes": "Control questionnaires"}
+{"id": "as20", "query": "do not use regular PEF monitoring to assess asthma control unless person-specific reasons", "relevant_chunk_ids": ["asthma-section_aware-0016"], "notes": "Avoid routine PEF monitoring"}
+{"id": "as21", "query": "reasons for uncontrolled asthma adherence inhaler technique smoking vaping occupational", "relevant_chunk_ids": ["asthma-section_aware-0017"], "notes": "Uncontrolled asthma checks"}
+{"id": "as22", "query": "do not prescribe SABA without concomitant inhaled corticosteroid any age", "relevant_chunk_ids": ["asthma-section_aware-0018"], "notes": "No SABA monotherapy"}
+{"id": "as23", "query": "review response after starting or adjusting asthma medicines 8 to 12 weeks", "relevant_chunk_ids": ["asthma-section_aware-0018"], "notes": "Treatment review interval"}
+{"id": "as24", "query": "choose inhaler based on technique preference environmental impact dose counter spacer children", "relevant_chunk_ids": ["asthma-section_aware-0019"], "notes": "Inhaler choice"}
+{"id": "as25", "query": "observe inhaler technique at every asthma review and when control deteriorates", "relevant_chunk_ids": ["asthma-section_aware-0019"], "notes": "Check inhaler technique"}
+{"id": "as26", "query": "digital smart inhalers not recommended for routine use asthma", "relevant_chunk_ids": ["asthma-section_aware-0020"], "notes": "Digital inhalers"}
+{"id": "as27", "query": "as-needed AIR therapy low-dose ICS formoterol newly diagnosed asthma aged 12 and over", "relevant_chunk_ids": ["asthma-section_aware-0021"], "notes": "AIR first-line 12+"}
+{"id": "as28", "query": "highly symptomatic nocturnal waking start low-dose MART newly diagnosed aged 12", "relevant_chunk_ids": ["asthma-section_aware-0021"], "notes": "MART if highly symptomatic"}
+{"id": "as29", "query": "offer low-dose MART if asthma not controlled on as-needed ICS formoterol aged 12", "relevant_chunk_ids": ["asthma-section_aware-0022"], "notes": "Step-up to low-dose MART"}
+{"id": "as30", "query": "moderate-dose MART if not controlled on low-dose MART aged 12 and over", "relevant_chunk_ids": ["asthma-section_aware-0022"], "notes": "Step-up to moderate MART"}
+{"id": "as31", "query": "raised FeNO or eosinophils on moderate-dose MART refer asthma specialist", "relevant_chunk_ids": ["asthma-section_aware-0022"], "notes": "Specialist if raised biomarkers"}
+{"id": "as32", "query": "trial LTRA or LAMA 8 to 12 weeks if FeNO and eosinophils not raised moderate MART", "relevant_chunk_ids": ["asthma-section_aware-0022"], "notes": "LTRA/LAMA trial"}
+{"id": "as33", "query": "MHRA montelukast neuropsychiatric reactions safety advice", "relevant_chunk_ids": ["asthma-section_aware-0023"], "notes": "Montelukast MHRA"}
+{"id": "as34", "query": "refer specialist if asthma not controlled moderate-dose MART after LTRA and LAMA trials", "relevant_chunk_ids": ["asthma-section_aware-0023"], "notes": "Referral after MART+LTRA+LAMA"}
+{"id": "as35", "query": "change SABA-only treatment to as-needed AIR ICS formoterol confirmed asthma aged 12", "relevant_chunk_ids": ["asthma-section_aware-0025"], "notes": "Switch from SABA-only"}
+{"id": "as36", "query": "refer specialist if asthma not controlled on high-dose ICS containing treatment", "relevant_chunk_ids": ["asthma-section_aware-0026"], "notes": "High-dose ICS referral"}
+{"id": "as37", "query": "initial treatment children 5 to 11 twice-daily paediatric low-dose ICS plus SABA as needed", "relevant_chunk_ids": ["asthma-section_aware-0027"], "notes": "Child 5-11 initial Rx"}
+{"id": "as38", "query": "paediatric low-dose MART children 5 to 11 if not controlled on ICS plus SABA", "relevant_chunk_ids": ["asthma-section_aware-0028"], "notes": "Child MART pathway"}
+{"id": "as39", "query": "add LTRA to paediatric low-dose ICS if child unable to manage MART regimen", "relevant_chunk_ids": ["asthma-section_aware-0028"], "notes": "Child conventional LTRA add-on"}
+{"id": "as40", "query": "refer children specialist if not controlled on paediatric moderate-dose MART or ICS LABA", "relevant_chunk_ids": ["asthma-section_aware-0029"], "notes": "Child specialist referral"}
+{"id": "as41", "query": "trial twice-daily paediatric low-dose ICS children under 5 suspected asthma interval symptoms", "relevant_chunk_ids": ["asthma-section_aware-0030"], "notes": "Under-5 ICS trial"}
+{"id": "as42", "query": "add LTRA children under 5 if uncontrolled on paediatric moderate-dose ICS", "relevant_chunk_ids": ["asthma-section_aware-0031"], "notes": "Under-5 LTRA add-on"}
+{"id": "as43", "query": "decreasing maintenance therapy well controlled asthma step down to as-needed AIR aged 12", "relevant_chunk_ids": ["asthma-section_aware-0033"], "notes": "Step-down therapy"}
+{"id": "as44", "query": "check adherence prescription records and inhaler technique every asthma review", "relevant_chunk_ids": ["asthma-section_aware-0034"], "notes": "Adherence check"}
+{"id": "as45", "query": "asthma review early pregnancy continue ICS beta2 agonists theophyllines oral steroids for exacerbations", "relevant_chunk_ids": ["asthma-section_aware-0035"], "notes": "Pregnancy medicines"}
+{"id": "as46", "query": "adolescents asthma career choices work-related symptoms vaping smoking inhaler at school", "relevant_chunk_ids": ["asthma-section_aware-0036"], "notes": "Adolescent asthma"}
+{"id": "as47", "query": "personalised asthma action plan self-management air pollution triggers children and adults", "relevant_chunk_ids": ["asthma-section_aware-0037"], "notes": "Self-management plan"}
+{"id": "as48", "query": "increase ICS dose 7 days when control deteriorates adults using single inhaler ICS", "relevant_chunk_ids": ["asthma-section_aware-0038"], "notes": "Rescue ICS increase"}
+{"id": "as49", "query": "risk-stratified care SABA overuse more than 2 inhalers per year oral corticosteroids emergency visits", "relevant_chunk_ids": ["asthma-section_aware-0040"], "notes": "Risk-stratified care"}
+{"id": "as50", "query": "what is MART maintenance and reliever therapy ICS formoterol single inhaler", "relevant_chunk_ids": ["asthma-section_aware-0043"], "notes": "MART definition"}
