@@ -24,8 +24,7 @@ configs/selected.yaml
 # Machine-local job pointer (copy from serving.example.yaml)
 configs/serving.yaml
 
-# Local Cursor plans and non-product agent skills
-.cursor/plans/
-.agents/skills/grill-me/
-.agents/skills/grilling/
-.agents/skills/rag-implementation/
+# Local Cursor / agent tooling
+.cursor/
+.agents/
+skills-lock.json
