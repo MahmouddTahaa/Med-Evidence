@@ -1,0 +1,31 @@
+---
+description: Frozen retrieval contract for the clinician query/generation slice.
+alwaysApply: true
+---
+
+# Query / generation slice
+
+Retrieval is done. Product code must not reopen store/embed/chunk/weight sweeps.
+
+## Call this
+
+```python
+from clinical_rag.query import RetrievalSession, citation_blocks
+
+session = RetrievalSession.open()  # configs/winning.yaml + configs/serving.yaml
+hits = session.retrieve(user_question)
+context = citation_blocks(hits)
+```
+
+- Rebuild an index with `FrozenStack.ingest_config` → `run_ingest`, then point `configs/serving.yaml` at the new `job_id`.
+- Operator lab: `uv run streamlit run src/clinical_rag/ui/streamlit_app.py` (ingest/eval only).
+
+## Do not
+
+- Change `configs/winning.yaml` knobs without a new labeled eval (MRR, nDCG@5, P@5).
+- Enable `sibling_fill` or `parent_child` on the product path.
+- Import `eval.grid` / `lock_winning_combo` from the clinician UI.
+- Add LangChain LCEL, extra vector DBs, or a second retrieve implementation.
+- Generate answers without passing `citation_blocks` (or equivalent hit metadata) into the prompt.
+
+Stack lock and eval record: `docs/evaluation.md`. API contract: `docs/technical-report.md`.

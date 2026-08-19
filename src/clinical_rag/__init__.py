@@ -1,3 +1,3 @@
-"""Med-Evidence: ingest and hybrid retrieval for a clinician pharmacology guide."""
+"""Med-Evidence: ingest, frozen hybrid retrieval, grounded query session."""
 
 __version__ = "0.1.0"
