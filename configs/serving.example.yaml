@@ -1,0 +1,5 @@
+# Local pointer to an ingest job built with configs/winning.yaml.
+# Copy to configs/serving.yaml and set job_id to a job under artifacts/jobs/.
+#
+# Product lock index on the freeze machine (title-prefix, 2053 chunks):
+job_id: ae69f99b47b7

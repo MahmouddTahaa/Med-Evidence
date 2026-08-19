@@ -1,0 +1,50 @@
+{"id": "fd01", "query": "Rome IV criteria functional dyspepsia diagnosis classification", "relevant_chunk_ids": ["fd-guidelines-section_aware-0003"], "notes": "Guideline scope / Rome IV"}
+{"id": "fd02", "query": "bothersome epigastric pain burning early satiation postprandial fullness duration", "relevant_chunk_ids": ["fd-guidelines-section_aware-0004"], "notes": "Core FD symptom criteria"}
+{"id": "fd03", "query": "functional dyspepsia disorder of gut brain interaction explanation", "relevant_chunk_ids": ["fd-guidelines-section_aware-0004"], "notes": "DGBI framing for patients"}
+{"id": "fd04", "query": "empathic doctor patient relationship functional dyspepsia management", "relevant_chunk_ids": ["fd-guidelines-section_aware-0004"], "notes": "Communication recommendation"}
+{"id": "fd05", "query": "gut brain axis diet stress cognitive behavioural responses dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0004"], "notes": "Patient education factors"}
+{"id": "fd06", "query": "dyspepsia weight loss family history gastro-oesophageal cancer referral", "relevant_chunk_ids": ["fd-guidelines-section_aware-0005"], "notes": "Alarm / referral criteria"}
+{"id": "fd07", "query": "non-urgent endoscopy age 55 treatment-resistant dyspepsia nausea vomiting", "relevant_chunk_ids": ["fd-guidelines-section_aware-0005"], "notes": "Endoscopy threshold"}
+{"id": "fd08", "query": "urgent abdominal CT scan pancreatic cancer age 60 weight loss", "relevant_chunk_ids": ["fd-guidelines-section_aware-0005"], "notes": "CT for pancreatic cancer"}
+{"id": "fd09", "query": "Helicobacter pylori test and treat eradication therapy dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0005"], "notes": "H. pylori test-and-treat"}
+{"id": "fd10", "query": "successful eradication H pylori after test and treat functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0047"], "notes": "Post-eradication confirmation"}
+{"id": "fd11", "query": "gastric emptying testing not routine functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0006"], "notes": "Avoid routine gastric emptying / pH"}
+{"id": "fd12", "query": "specialist clinic secondary care functional dyspepsia management", "relevant_chunk_ids": ["fd-guidelines-section_aware-0006"], "notes": "Secondary care pathway"}
+{"id": "fd13", "query": "audit H pylori test and treat endoscopy rates functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0006"], "notes": "Service audit recommendation"}
+{"id": "fd14", "query": "regular aerobic exercise first-line functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0006"], "notes": "Exercise recommendation"}
+{"id": "fd15", "query": "proton pump inhibitors lowest dose functional dyspepsia first-line", "relevant_chunk_ids": ["fd-guidelines-section_aware-0007"], "notes": "PPI first-line"}
+{"id": "fd16", "query": "prokinetics acotiamide itopride tegaserod mosapride functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0007"], "notes": "Prokinetic classes"}
+{"id": "fd17", "query": "tricyclic antidepressants second-line gut brain neuromodulator FD", "relevant_chunk_ids": ["fd-guidelines-section_aware-0007"], "notes": "TCA second-line"}
+{"id": "fd18", "query": "amitriptyline functional dyspepsia neuromodulator", "relevant_chunk_ids": ["fd-guidelines-section_aware-0007"], "notes": "TCA example"}
+{"id": "fd19", "query": "SSRIs not efficacious second-line functional dyspepsia global symptoms", "relevant_chunk_ids": ["fd-guidelines-section_aware-0008"], "notes": "SSRI negative evidence"}
+{"id": "fd20", "query": "SNRIs second-line functional dyspepsia chronic painful conditions", "relevant_chunk_ids": ["fd-guidelines-section_aware-0008"], "notes": "SNRI evidence gap"}
+{"id": "fd21", "query": "tandospirone buspirone second-line functional dyspepsia 5-HT1A", "relevant_chunk_ids": ["fd-guidelines-section_aware-0008"], "notes": "5-HT1A agonists"}
+{"id": "fd22", "query": "mirtazapine early satiation weight loss functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0008"], "notes": "Mirtazapine second-line"}
+{"id": "fd23", "query": "psychodynamic psychotherapy functional dyspepsia global symptoms", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "Psychotherapy"}
+{"id": "fd24", "query": "cognitive behavioural therapy metacognitive therapy functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "CBT / metacognitive therapy"}
+{"id": "fd25", "query": "stress management hypnotherapy functional dyspepsia behavioural therapy", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "Stress / hypnotherapy"}
+{"id": "fd26", "query": "multidisciplinary team severe refractory functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "Severe/refractory MDT"}
+{"id": "fd27", "query": "ARFID avoidant restrictive food intake disorder severe FD", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "ARFID in severe FD"}
+{"id": "fd28", "query": "dietitian involvement severe refractory FD restrictive diet", "relevant_chunk_ids": ["fd-guidelines-section_aware-0009"], "notes": "Dietitian in refractory FD"}
+{"id": "fd29", "query": "postprandial distress syndrome epigastric pain syndrome Rome subtypes", "relevant_chunk_ids": ["fd-guidelines-section_aware-0018"], "notes": "PDS / EPS subtypes"}
+{"id": "fd30", "query": "80 percent dyspepsia diagnosed functional dyspepsia after endoscopy", "relevant_chunk_ids": ["fd-guidelines-section_aware-0021"], "notes": "FD prevalence after endoscopy"}
+{"id": "fd31", "query": "gastroparesis overlap functional dyspepsia delayed gastric emptying", "relevant_chunk_ids": ["fd-guidelines-section_aware-0019"], "notes": "Gastroparesis overlap"}
+{"id": "fd32", "query": "delayed gastric emptying pathophysiology functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0023"], "notes": "Delayed emptying mechanism"}
+{"id": "fd33", "query": "visceral hypersensitivity functional dyspepsia pathophysiology", "relevant_chunk_ids": ["fd-guidelines-section_aware-0056"], "notes": "Visceral hypersensitivity"}
+{"id": "fd34", "query": "mast cell activation epithelial permeability functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0028"], "notes": "Mast cell / permeability"}
+{"id": "fd35", "query": "clinical history dysphagia haematemesis alarm symptoms dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0033"], "notes": "Alarm symptom history"}
+{"id": "fd36", "query": "NICE urgent two week wait endoscopy dyspepsia weight loss age 55", "relevant_chunk_ids": ["fd-guidelines-section_aware-0034"], "notes": "NICE urgent endoscopy"}
+{"id": "fd37", "query": "smoking risk factor postprandial distress syndrome", "relevant_chunk_ids": ["fd-guidelines-section_aware-0037"], "notes": "Smoking and PDS"}
+{"id": "fd38", "query": "anxiety depression risk future functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0037"], "notes": "Psychiatric risk factors"}
+{"id": "fd39", "query": "NSAIDs opioids alter gut motility dyspepsia history", "relevant_chunk_ids": ["fd-guidelines-section_aware-0037"], "notes": "Drug history in dyspepsia"}
+{"id": "fd40", "query": "most patients dyspepsia underlying cause functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0032"], "notes": "FD as common cause"}
+{"id": "fd41", "query": "endoscopy reassurance functional dyspepsia patient education", "relevant_chunk_ids": ["fd-guidelines-section_aware-0041"], "notes": "Reassurance after endoscopy"}
+{"id": "fd42", "query": "H pylori eradication functional dyspepsia evidence update", "relevant_chunk_ids": ["fd-guidelines-section_aware-0041"], "notes": "Eradication evidence"}
+{"id": "fd43", "query": "low FODMAP diet functional dyspepsia dietary management", "relevant_chunk_ids": ["fd-guidelines-section_aware-0058"], "notes": "Low FODMAP diet"}
+{"id": "fd44", "query": "domperidone metoclopramide prokinetic systematic review FD", "relevant_chunk_ids": ["fd-guidelines-section_aware-0060"], "notes": "Prokinetic evidence review"}
+{"id": "fd45", "query": "citalopram paroxetine antidepressant functional dyspepsia trials", "relevant_chunk_ids": ["fd-guidelines-section_aware-0074"], "notes": "SSRI trial evidence"}
+{"id": "fd46", "query": "venlafaxine duloxetine SNRI functional dyspepsia", "relevant_chunk_ids": ["fd-guidelines-section_aware-0072"], "notes": "SNRI drug evidence"}
+{"id": "fd47", "query": "mindfulness based therapy functional dyspepsia behavioural", "relevant_chunk_ids": ["fd-guidelines-section_aware-0079"], "notes": "Mindfulness therapy"}
+{"id": "fd48", "query": "acupuncture functional dyspepsia complementary therapy evidence", "relevant_chunk_ids": ["fd-guidelines-section_aware-0090"], "notes": "Acupuncture evidence"}
+{"id": "fd49", "query": "uninvestigated dyspepsia primary care management", "relevant_chunk_ids": ["fd-guidelines-section_aware-0105"], "notes": "Uninvestigated dyspepsia"}
+{"id": "fd50", "query": "network meta-analysis drug efficacy functional dyspepsia guideline", "relevant_chunk_ids": ["fd-guidelines-section_aware-0003"], "notes": "Evidence synthesis method"}

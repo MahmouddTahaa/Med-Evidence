@@ -1,0 +1,2 @@
+{"id": "q1", "query": "first-line treatment for functional dyspepsia", "relevant_chunk_ids": ["REPLACE_WITH_CHUNK_ID"], "notes": "Label against a known job/collection before running eval"}
+{"id": "q2", "query": "functional dyspepsia alarm features", "relevant_chunk_ids": ["REPLACE_WITH_CHUNK_ID"], "notes": "example row"}
