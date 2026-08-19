@@ -1,0 +1,21 @@
+{
+  "document_name": "Sample Adult Diabetes Follow-up — DEMO TEXT",
+  "source_url": "https://example.org/demo/diabetes",
+  "sections": [
+    {
+      "title": "Targets",
+      "page_number": 1,
+      "text": "DEMO TEXT (not clinical advice). Individualise glycaemic targets. Recheck HbA1c on the schedule used by the local pathway. Ask about hypoglycaemia at every visit."
+    },
+    {
+      "title": "Metformin",
+      "page_number": 2,
+      "text": "DEMO TEXT (not clinical advice). Metformin remains a common first-line agent when it is tolerated and not contraindicated. Titrate to limit gastrointestinal effects and review renal function."
+    },
+    {
+      "title": "Complications screen",
+      "page_number": 3,
+      "text": "DEMO TEXT (not clinical advice). Screen for foot risk, retinopathy, and albuminuria on the interval specified by the local programme. This sample exists so JSON raw ingest has headings and pages."
+    }
+  ]
+}
