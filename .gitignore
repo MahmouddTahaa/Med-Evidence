@@ -28,3 +28,4 @@ configs/serving.yaml
 .cursor/plans/
 .agents/skills/grill-me/
 .agents/skills/grilling/
+.agents/skills/rag-implementation/
