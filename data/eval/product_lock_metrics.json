@@ -1,0 +1,29 @@
+{
+  "run_id": "4a2bf096b370",
+  "job_id": "ae69f99b47b7",
+  "eval_set_id": "statpearls_pharmacology",
+  "n_questions": 20,
+  "source": "docs/evaluation.md product lock; artifacts/evals/4a2bf096b370/metrics.json",
+  "aggregates": {
+    "mrr": 1.0,
+    "precision@1": 1.0,
+    "precision@3": 0.5333,
+    "precision@5": 0.35,
+    "precision@10": 0.19,
+    "recall@1": 0.703,
+    "recall@3": 0.8851,
+    "recall@5": 0.9393,
+    "recall@10": 0.9631,
+    "hit@1": 1.0,
+    "hit@3": 1.0,
+    "hit@5": 1.0,
+    "hit@10": 1.0,
+    "ndcg@1": 1.0,
+    "ndcg@3": 0.9541,
+    "ndcg@5": 0.9508,
+    "ndcg@10": 0.9554,
+    "latency_ms_p50": 770.59,
+    "latency_ms_p95": 1502.67
+  },
+  "generation_note": "Per-turn faithfulness uses claim-level MiniLM claim-support against retrieved hits; citation accuracy is unique bound/proposed (heuristic, not a labeled generation bakeoff)."
+}
