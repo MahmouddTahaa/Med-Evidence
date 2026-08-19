@@ -1,0 +1,36 @@
+{
+  "document_name": "Sample Adult Asthma — DEMO TEXT",
+  "source_url": "https://example.org/demo/asthma",
+  "chunks": [
+    {
+      "chunk_id": "asthma-ctrl-001",
+      "text": "DEMO TEXT (not clinical advice). Assess asthma control by daytime symptoms, night waking, reliever use, and activity limitation. Uncontrolled symptoms should trigger a review of inhaler technique and adherence before stepping up therapy.",
+      "section_title": "Control assessment",
+      "page_number": 2
+    },
+    {
+      "chunk_id": "asthma-inh-002",
+      "text": "DEMO TEXT (not clinical advice). Inhaled corticosteroids are the usual maintenance backbone in persistent asthma pathways. Check spacer use and rinse-after-steroid counselling when reviewing a regimen.",
+      "section_title": "Inhaled corticosteroids",
+      "page_number": 4
+    },
+    {
+      "chunk_id": "asthma-ex-003",
+      "text": "DEMO TEXT (not clinical advice). For a moderate exacerbation in this sample pathway, increase reliever frequency, review maintenance dosing, and look for infection or trigger exposure. Severe distress is an emergency referral, not an index-only problem.",
+      "section_title": "Exacerbation",
+      "page_number": 7
+    },
+    {
+      "chunk_id": "asthma-ref-004",
+      "text": "DEMO TEXT (not clinical advice). Refer if diagnosis is uncertain, if control stays poor on medium-dose ICS/LABA, or if there are life-threatening features. This sample is for retrieval plumbing only.",
+      "section_title": "Referral",
+      "page_number": 9
+    },
+    {
+      "chunk_id": "asthma-edu-005",
+      "text": "DEMO TEXT (not clinical advice). Give a written action plan covering daily inhalers, how to recognise worsening, and when to seek urgent care. Confirm the patient can demonstrate inhaler technique.",
+      "section_title": "Education",
+      "page_number": 11
+    }
+  ]
+}
