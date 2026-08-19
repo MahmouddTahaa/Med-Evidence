@@ -1,0 +1,30 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+data/uploads/
+data/pharmacology_data
+artifacts/
+data/eval/questions.jsonl
+*.log
+.DS_Store
+
+# Local agent handoff — do not commit
+docs/edits.md
+docs/streamlit-ui-implementation-contract.md
+configs/selected.yaml
+# Machine-local job pointer (copy from serving.example.yaml)
+configs/serving.yaml
+
+# Local Cursor plans and non-product agent skills
+.cursor/plans/
+.agents/skills/grill-me/
+.agents/skills/grilling/

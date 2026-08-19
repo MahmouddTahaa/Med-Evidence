@@ -1,0 +1,49 @@
+[project]
+name = "clinical-rag"
+version = "0.1.0"
+description = "Med-Evidence: frozen hybrid retrieval for a clinician pharmacology guide."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "chromadb>=1.0",
+    "langchain-text-splitters>=0.3",
+    "numpy>=1.24",
+    "pydantic>=2.10",
+    "pydantic-settings>=2.7",
+    "pymupdf>=1.25",
+    "pytesseract>=0.3.13",
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0",
+    "qdrant-client>=1.12",
+    "rank-bm25>=0.2.2",
+    "scikit-learn>=1.5",
+    "sentence-transformers>=3.0",
+    "streamlit>=1.40",
+    "tiktoken>=0.8",
+    "torch>=2.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+openai = ["openai>=1.0"]
+api = ["openai>=1.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.uv]
+package = true
+
+# RTX 3050 Ti Mobile, driver 610 / CUDA 13.3 UMD. Torch 2.13 stable CUDA build is cu130.
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu130" }
