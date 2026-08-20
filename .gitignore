@@ -12,7 +12,9 @@ build/
 htmlcov/
 data/uploads/
 data/pharmacology_data
-artifacts/
+artifacts/*
+!artifacts/product-lock/
+!artifacts/product-lock/**
 data/eval/questions.jsonl
 *.log
 .DS_Store
